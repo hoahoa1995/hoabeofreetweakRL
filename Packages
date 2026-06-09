@@ -1,9 +1,9 @@
-Package: com.hoabeo.autoallow_1.0.1okgiaidoan2_iphoneos-arm64.deb
+Package: com.hoabeo.autoallow
 Name: auto allow hoabeo
-Version: 1.0.0
+Version: 1.0.1okgiaidoan2
 Architecture: iphoneos-arm64
 Description: tự động bấm allow/ok/not now từ alert hệ thống cũng như app
-Maintainer: Tên Của Bạn hoabeo
+Maintainer: hoabeo
 Author: hoabeo
 Section: Tweaks
 Filename: debs/com.hoabeo.autoallow_1.0.1okgiaidoan2_iphoneos-arm64.deb
