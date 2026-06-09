@@ -1,4 +1,4 @@
-Package: com.hoabeo.autoallow
+Package: com.hoabeo.autoallow_1.0.1okgiaidoan2_iphoneos-arm64.deb
 Name: auto allow hoabeo
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -8,3 +8,4 @@ Author: hoabeo
 Section: Tweaks
 Filename: debs/com.hoabeo.autoallow_1.0.1okgiaidoan2_iphoneos-arm64.deb
 Size: 29kb
+
